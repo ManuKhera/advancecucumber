@@ -1,0 +1,620 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 4,
+        "name": "Home page default login",
+        "description": "",
+        "id": "application-login-page;home-page-default-login",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 5,
+            "name": "User is on login page \"https://login.salesforce.com/?locale\u003dca\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "https://login.salesforce.com/?locale\u003dca",
+                  "offset": 23
+                }
+              ],
+              "location": "MyStepDefinitions.user_is_on_login_page_something(String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 6,
+            "name": "user login into application with",
+            "match": {
+              "location": "MyStepDefinitions.user_login_into_application_with(DataTable)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "manukhattra13",
+                  "",
+                  "123456"
+                ],
+                "line": 7
+              }
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 8,
+            "name": "Home page is populated",
+            "match": {
+              "location": "MyStepDefinitions.home_page_is_populated()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 9,
+            "name": "Cards are displayed",
+            "match": {
+              "location": "MyStepDefinitions.cards_are_displayed()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "line": 3,
+            "name": "@RegTest"
+          }
+        ]
+      },
+      {
+        "line": 13,
+        "name": "Home page default login",
+        "description": "",
+        "id": "application-login-page;home-page-default-login",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 14,
+            "name": "User is on login page \"https://login.salesforce.com/?locale\u003dca\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "https://login.salesforce.com/?locale\u003dca",
+                  "offset": 23
+                }
+              ],
+              "location": "MyStepDefinitions.user_is_on_login_page_something(String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 15,
+            "name": "user login into application with",
+            "match": {
+              "location": "MyStepDefinitions.user_login_into_application_with(DataTable)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "manukhattra13",
+                  "",
+                  "123456"
+                ],
+                "line": 16
+              }
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 17,
+            "name": "Home page is populated",
+            "match": {
+              "location": "MyStepDefinitions.home_page_is_populated()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 18,
+            "name": "Cards are displayed",
+            "match": {
+              "location": "MyStepDefinitions.cards_are_displayed()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "line": 12,
+            "name": "@RegTest"
+          }
+        ]
+      },
+      {
+        "line": 21,
+        "name": "Home page default login",
+        "description": "",
+        "id": "application-login-page;home-page-default-login",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 22,
+            "name": "User is on login page \"smoke1\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "smoke1",
+                  "offset": 23
+                }
+              ],
+              "location": "MyStepDefinitions.user_is_on_login_page_something(String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 23,
+            "name": "user login into application with",
+            "match": {
+              "location": "MyStepDefinitions.user_login_into_application_with(DataTable)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "manukhattra13",
+                  "",
+                  "123456"
+                ],
+                "line": 24
+              }
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 25,
+            "name": "Home page is populated",
+            "match": {
+              "location": "MyStepDefinitions.home_page_is_populated()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 26,
+            "name": "Cards are displayed",
+            "match": {
+              "location": "MyStepDefinitions.cards_are_displayed()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "line": 20,
+            "name": "@RegTest"
+          }
+        ]
+      },
+      {
+        "line": 29,
+        "name": "Home page default login",
+        "description": "",
+        "id": "application-login-page;home-page-default-login",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 30,
+            "name": "User is on login page \"https://login.salesforce.com/?locale\u003dca\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "https://login.salesforce.com/?locale\u003dca",
+                  "offset": 23
+                }
+              ],
+              "location": "MyStepDefinitions.user_is_on_login_page_something(String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 31,
+            "name": "user login into application with",
+            "match": {
+              "location": "MyStepDefinitions.user_login_into_application_with(DataTable)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "manukhattra13",
+                  "",
+                  "123456"
+                ],
+                "line": 32
+              }
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 33,
+            "name": "Home page is populated",
+            "match": {
+              "location": "MyStepDefinitions.home_page_is_populated()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 34,
+            "name": "Cards are displayed",
+            "match": {
+              "location": "MyStepDefinitions.cards_are_displayed()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "line": 28,
+            "name": "@RegTest"
+          }
+        ]
+      },
+      {
+        "line": 37,
+        "name": "Home page default login",
+        "description": "",
+        "id": "application-login-page;home-page-default-login",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 38,
+            "name": "User is on login page \"smoke2\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "smoke2",
+                  "offset": 23
+                }
+              ],
+              "location": "MyStepDefinitions.user_is_on_login_page_something(String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 39,
+            "name": "user login into application with",
+            "match": {
+              "location": "MyStepDefinitions.user_login_into_application_with(DataTable)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "manukhattra13",
+                  "",
+                  "123456"
+                ],
+                "line": 40
+              }
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 41,
+            "name": "Home page is populated",
+            "match": {
+              "location": "MyStepDefinitions.home_page_is_populated()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 42,
+            "name": "Cards are displayed",
+            "match": {
+              "location": "MyStepDefinitions.cards_are_displayed()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "line": 36,
+            "name": "@RegTest"
+          }
+        ]
+      },
+      {
+        "line": 45,
+        "name": "Home page default login",
+        "description": "",
+        "id": "application-login-page;home-page-default-login",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 46,
+            "name": "User is on login page \"smoke1\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "smoke1",
+                  "offset": 23
+                }
+              ],
+              "location": "MyStepDefinitions.user_is_on_login_page_something(String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 47,
+            "name": "user login into application with",
+            "match": {
+              "location": "MyStepDefinitions.user_login_into_application_with(DataTable)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "manukhattra13",
+                  "",
+                  "123456"
+                ],
+                "line": 48
+              }
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 49,
+            "name": "Home page is populated",
+            "match": {
+              "location": "MyStepDefinitions.home_page_is_populated()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 50,
+            "name": "Cards are displayed",
+            "match": {
+              "location": "MyStepDefinitions.cards_are_displayed()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "line": 44,
+            "name": "@RegTest"
+          }
+        ]
+      },
+      {
+        "line": 53,
+        "name": "Home page default login",
+        "description": "",
+        "id": "application-login-page;home-page-default-login",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 54,
+            "name": "User is on login page \"https://login.salesforce.com/?locale\u003dca\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "https://login.salesforce.com/?locale\u003dca",
+                  "offset": 23
+                }
+              ],
+              "location": "MyStepDefinitions.user_is_on_login_page_something(String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 55,
+            "name": "user login into application with",
+            "match": {
+              "location": "MyStepDefinitions.user_login_into_application_with(DataTable)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "manukhattra13",
+                  "",
+                  "123456"
+                ],
+                "line": 56
+              }
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 57,
+            "name": "Home page is populated",
+            "match": {
+              "location": "MyStepDefinitions.home_page_is_populated()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 58,
+            "name": "Cards are displayed",
+            "match": {
+              "location": "MyStepDefinitions.cards_are_displayed()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "line": 52,
+            "name": "@RegTest"
+          }
+        ]
+      },
+      {
+        "line": 61,
+        "name": "Home page default login",
+        "description": "",
+        "id": "application-login-page;home-page-default-login",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 62,
+            "name": "User is on login page \"smoke2\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "smoke2",
+                  "offset": 23
+                }
+              ],
+              "location": "MyStepDefinitions.user_is_on_login_page_something(String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 63,
+            "name": "user login into application with",
+            "match": {
+              "location": "MyStepDefinitions.user_login_into_application_with(DataTable)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "manukhattra13",
+                  "",
+                  "123456"
+                ],
+                "line": 64
+              }
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 65,
+            "name": "Home page is populated",
+            "match": {
+              "location": "MyStepDefinitions.home_page_is_populated()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 66,
+            "name": "Cards are displayed",
+            "match": {
+              "location": "MyStepDefinitions.cards_are_displayed()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "line": 60,
+            "name": "@RegTest"
+          }
+        ]
+      }
+    ],
+    "name": "Application login page",
+    "description": "",
+    "id": "application-login-page",
+    "keyword": "Feature",
+    "uri": "login2.feature"
+  }
+]

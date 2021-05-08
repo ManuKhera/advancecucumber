@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="8" time="0">
+    <testcase classname="Application login page" name="Home page default login" time="0">
+        <system-out>
+            <![CDATA[Given User is on login page "https://login.salesforce.com/?locale=ca".......skipped
+When user login into application with.......................................skipped
+Then Home page is populated.................................................skipped
+And Cards are displayed.....................................................skipped
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Application login page" name="Home page default login" time="0">
+        <system-out>
+            <![CDATA[Given User is on login page "https://login.salesforce.com/?locale=ca".......skipped
+When user login into application with.......................................skipped
+Then Home page is populated.................................................skipped
+And Cards are displayed.....................................................skipped
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Application login page" name="Home page default login" time="0">
+        <system-out>
+            <![CDATA[Given User is on login page "smoke1"........................................skipped
+When user login into application with.......................................skipped
+Then Home page is populated.................................................skipped
+And Cards are displayed.....................................................skipped
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Application login page" name="Home page default login" time="0">
+        <system-out>
+            <![CDATA[Given User is on login page "https://login.salesforce.com/?locale=ca".......skipped
+When user login into application with.......................................skipped
+Then Home page is populated.................................................skipped
+And Cards are displayed.....................................................skipped
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Application login page" name="Home page default login" time="0">
+        <system-out>
+            <![CDATA[Given User is on login page "smoke2"........................................skipped
+When user login into application with.......................................skipped
+Then Home page is populated.................................................skipped
+And Cards are displayed.....................................................skipped
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Application login page" name="Home page default login" time="0">
+        <system-out>
+            <![CDATA[Given User is on login page "smoke1"........................................skipped
+When user login into application with.......................................skipped
+Then Home page is populated.................................................skipped
+And Cards are displayed.....................................................skipped
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Application login page" name="Home page default login" time="0">
+        <system-out>
+            <![CDATA[Given User is on login page "https://login.salesforce.com/?locale=ca".......skipped
+When user login into application with.......................................skipped
+Then Home page is populated.................................................skipped
+And Cards are displayed.....................................................skipped
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Application login page" name="Home page default login" time="0">
+        <system-out>
+            <![CDATA[Given User is on login page "smoke2"........................................skipped
+When user login into application with.......................................skipped
+Then Home page is populated.................................................skipped
+And Cards are displayed.....................................................skipped
+]]>
+        </system-out>
+    </testcase>
+</testsuite>
